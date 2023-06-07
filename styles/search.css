@@ -1,0 +1,579 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  display: flex;
+  justify-content: center; /* Horizontally center the contents */
+  align-items: center; /* Vertically center the contents */
+/* Set the width of the body to the viewport width */
+}.frame-30-1w4 {
+  width: 100%;
+  height: 213rem;
+}
+.frame-30-1w4 .desktop-6-xrJ {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  overflow: hidden;
+  background-color: #ffffff;
+}
+.frame-30-1w4 .desktop-6-xrJ .rectangle-10-6xW {
+  width: 110.6rem;
+  height: 49.8rem;
+  position: absolute;
+  left: 16.5rem;
+  top: 11.2rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.frame-30-1w4 .desktop-6-xrJ .eth-zurich-pdc {
+  width: 21.7rem;
+  height: 5.4rem;
+  position: absolute;
+  left: 16.5rem;
+  top: 126.95rem;
+  display: flex;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.3325;
+  color: #000000;
+  font-family: Playfair Display, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-30-1w4 .desktop-6-xrJ .advancing-innovation-and-excellence-in-stem-education-KKU {
+  width: 42.8rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 16.5rem;
+  top: 133.6rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.3519999981;
+  color: #000000;
+  font-family: Raleway, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-30-1w4 .desktop-6-xrJ .eth-zurich-the-swiss-federal-institute-of-technology-is-a-world-renowned-institution-that-excels-in-science-technology-engineering-and-mathematics-stem-education-with-a-legacy-of-groundbreaking-discoveries-and-a-commitment-to-pushing-the-boundaries-of-knowledge-eth-zurich-fosters-an-environment-that-empowers-students-to-become-future-leaders-and-innovators-in-their-fields-eth-zurich-is-synonymous-with-cutting-edge-research-technological-advancement-and-academic-excellence-with-a-focus-on-stem-disciplines-this-prestigious-institution-provides-students-with-unparalleled-opportunities-to-explore-and-contribute-to-groundbreaking-discoveries-students-at-eth-zurich-benefit-from-state-of-the-art-laboratories-collaboration-with-leading-experts-and-an-inspiring-academic-community-that-nurtures-curiosity-and-fosters-a-deep-passion-for-scientific-exploration-at-eth-zurich-innovation-is-at-the-core-of-everything-we-do-our-institution-fosters-a-culture-of-intellectual-curiosity-and-exploration-providing-students-with-an-environment-that-encourages-bold-thinking-and-fosters-creative-problem-solving-with-a-diverse-community-of-students-and-faculty-1i6 {
+  width: 111.6rem;
+  height: 22rem;
+  position: absolute;
+  left: 16.6rem;
+  top: 137.2rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.3520000246;
+  color: #000000;
+  font-family: Raleway, 'Source Sans Pro';
+  text-align: justify;
+}
+.frame-30-1w4 .desktop-6-xrJ .frame-13-eY6 {
+  width: 110.8rem;
+  height: 5.4rem;
+  position: absolute;
+  left: 16.6rem;
+  top: 162.8rem;
+  display: flex;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.3325;
+  color: #000000;
+  font-family: Playfair Display, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-30-1w4 .desktop-6-xrJ .frame-1-wn6 {
+  width: 110.175rem;
+  height: 6.5rem;
+  position: absolute;
+  left: 14.025rem;
+  top: 1.4rem;
+  display: flex;
+  align-items: center;
+}
+.frame-30-1w4 .desktop-6-xrJ .frame-1-wn6 .auto-group-brbv-4bp {
+  margin-right: 4.3rem;
+  width: 23.1rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.frame-30-1w4 .desktop-6-xrJ .frame-1-wn6 .auto-group-brbv-4bp .frame-39-bre {
+  box-sizing: border-box;
+  padding: 0 0.1rem;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+}
+.frame-30-1w4 .desktop-6-xrJ .frame-1-wn6 .auto-group-brbv-4bp .frame-39-bre .maxresdefault-1-ML2 {
+  width: 10rem;
+  height: 8rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.frame-30-1w4 .desktop-6-xrJ .frame-1-wn6 .auto-group-ebpy-tar {
+  margin: 0.8rem 0rem 1.5rem 0rem;
+  box-sizing: border-box;
+  padding: 1.45rem 0.925rem 0.75rem 0rem;
+  height: calc(100% - 2.3rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.frame-30-1w4 .desktop-6-xrJ .frame-1-wn6 .auto-group-ebpy-tar .middle-nav-items-zNz {
+  margin-right: 4.3rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.frame-30-1w4 .desktop-6-xrJ .frame-1-wn6 .auto-group-ebpy-tar .middle-nav-items-zNz .label-j5g {
+  margin-right: 7.75rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.25;
+  color: #18191f;
+  font-family: Raleway, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-30-1w4 .desktop-6-xrJ .frame-1-wn6 .auto-group-ebpy-tar .middle-nav-items-zNz .label-FZp {
+  margin-right: 9.75rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.25;
+  color: #18191f;
+  font-family: Raleway, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-30-1w4 .desktop-6-xrJ .frame-1-wn6 .auto-group-ebpy-tar .middle-nav-items-zNz .about-us-bNn {
+  margin-right: 10.75rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Raleway, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-30-1w4 .desktop-6-xrJ .frame-1-wn6 .auto-group-ebpy-tar .middle-nav-items-zNz .label-L5U {
+  margin-right: 7.75rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.25;
+  color: #18191f;
+  font-family: Raleway, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-30-1w4 .desktop-6-xrJ .frame-1-wn6 .auto-group-ebpy-tar .middle-nav-items-zNz .label-4nA {
+  margin-right: 7.75rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.25;
+  color: #18191f;
+  font-family: Raleway, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-30-1w4 .desktop-6-xrJ .frame-1-wn6 .auto-group-ebpy-tar .middle-nav-items-zNz .bx-bx-search-oze {
+  width: 2rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.frame-30-1w4 .desktop-6-xrJ .frame-1-wn6 .auto-group-ebpy-tar .label-AKQ {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.25;
+  color: #18191f;
+  font-family: Raleway, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-30-1w4 .desktop-6-xrJ .auto-group-pnno-VsU {
+  width: 110.9rem;
+  height: 32.75rem;
+  position: absolute;
+  left: 16.6rem;
+  top: 172rem;
+  display: flex;
+  column-gap: 5.8rem;
+  align-items: center;
+}
+.frame-30-1w4 .desktop-6-xrJ .auto-group-pnno-VsU .frame-19-CWz {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.frame-30-1w4 .desktop-6-xrJ .auto-group-pnno-VsU .frame-19-CWz .rectangle-1-Men {
+  margin-bottom: 0.8rem;
+  width: 33.1rem;
+  height: 21rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-30-1w4 .desktop-6-xrJ .auto-group-pnno-VsU .frame-19-CWz .frame-18-tuc {
+  width: 32.2rem;
+  height: 10.95rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.frame-30-1w4 .desktop-6-xrJ .auto-group-pnno-VsU .frame-19-CWz .frame-18-tuc .university-of-cambridge-r5k {
+  width: 20.2rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.3325;
+  color: #000000;
+  font-family: Playfair Display, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-30-1w4 .desktop-6-xrJ .auto-group-pnno-VsU .frame-19-CWz .frame-18-tuc .renowned-for-its-academic-excellence-and-rich-history-the-university-of-cambridge-offers-a-wide-range-of-programs-across-various-disciplines-94r {
+  width: 32.2rem;
+  height: 8.7rem;
+  position: absolute;
+  left: 0;
+  top: 2.25rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.3519999981;
+  color: #454545;
+  font-family: Raleway, 'Source Sans Pro';
+  text-align: justify;
+}
+.frame-30-1w4 .desktop-6-xrJ .auto-group-pnno-VsU .frame-21-y3t {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.frame-30-1w4 .desktop-6-xrJ .auto-group-pnno-VsU .frame-21-y3t .rectangle-2-KtS {
+  margin-bottom: 0.8rem;
+  width: 33.1rem;
+  height: 21rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-30-1w4 .desktop-6-xrJ .auto-group-pnno-VsU .frame-21-y3t .frame-20-4LE {
+  width: 29.6rem;
+  height: 10.95rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.frame-30-1w4 .desktop-6-xrJ .auto-group-pnno-VsU .frame-21-y3t .frame-20-4LE .stanford-university-ChL {
+  width: 16.2rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.3325;
+  color: #000000;
+  font-family: Playfair Display, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-30-1w4 .desktop-6-xrJ .auto-group-pnno-VsU .frame-21-y3t .frame-20-4LE .stanford-university-is-a-world-leading-institution-known-for-its-cutting-edge-research-entrepreneurial-spirit-and-interdisciplinary-approach-to-education-KGA {
+  width: 29.6rem;
+  height: 8.7rem;
+  position: absolute;
+  left: 0;
+  top: 2.25rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.3519999981;
+  color: #454545;
+  font-family: Raleway, 'Source Sans Pro';
+  text-align: justify;
+}
+.frame-30-1w4 .desktop-6-xrJ .auto-group-pnno-VsU .frame-23-y5p {
+  width: 33.1rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.frame-30-1w4 .desktop-6-xrJ .auto-group-pnno-VsU .frame-23-y5p .rectangle-3-WrS {
+  margin-bottom: 0.8rem;
+  width: 33.1rem;
+  height: 21rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-30-1w4 .desktop-6-xrJ .auto-group-pnno-VsU .frame-23-y5p .frame-22-r9c {
+  width: 100%;
+  height: 10.95rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.frame-30-1w4 .desktop-6-xrJ .auto-group-pnno-VsU .frame-23-y5p .frame-22-r9c .harvard-university-oKk {
+  width: 15.9rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.3325;
+  color: #000000;
+  font-family: Playfair Display, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-30-1w4 .desktop-6-xrJ .auto-group-pnno-VsU .frame-23-y5p .frame-22-r9c .harvard-university-an-ivy-league-institution-stands-at-the-forefront-of-higher-education-known-for-its-rigorous-academic-programs-and-distinguished-faculty-iSi {
+  width: 33.1rem;
+  height: 8.7rem;
+  position: absolute;
+  left: 0;
+  top: 2.25rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.3519999981;
+  color: #454545;
+  font-family: Raleway, 'Source Sans Pro';
+  text-align: justify;
+}
+.frame-30-1w4 .desktop-6-xrJ .auto-group-yq7d-A3p {
+  width: 100.5rem;
+  height: 8rem;
+  position: absolute;
+  left: 17.3rem;
+  top: 69.9rem;
+  display: flex;
+  align-items: flex-start;
+}
+.frame-30-1w4 .desktop-6-xrJ .auto-group-yq7d-A3p .ielts-tofel-duolingu-tVc {
+  margin: 0.25rem 7.1rem 0rem 0rem;
+  display: flex;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.3520000458;
+  color: #000000;
+  font-family: Raleway, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-30-1w4 .desktop-6-xrJ .auto-group-yq7d-A3p .auto-group-uv8f-BDp {
+  margin-right: 3.7rem;
+  width: 19.7rem;
+  height: 100%;
+  display: flex;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.3520000458;
+  color: #ffffff;
+  font-family: Raleway, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+  background-color: #35312f;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.frame-30-1w4 .desktop-6-xrJ .auto-group-yq7d-A3p .auto-group-aqyd-R8A {
+  width: 19.7rem;
+  height: 100%;
+  display: flex;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.3520000458;
+  color: #ffffff;
+  font-family: Raleway, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+  background-color: #35312f;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.frame-30-1w4 .desktop-6-xrJ .auto-group-smm5-GuU {
+  width: 100.5rem;
+  height: 8.1rem;
+  position: absolute;
+  left: 17.3rem;
+  top: 80.9rem;
+  display: flex;
+  align-items: center;
+}
+.frame-30-1w4 .desktop-6-xrJ .auto-group-smm5-GuU .gre-gmat-bgr {
+  margin: 0.1rem 34.2rem 0rem 0rem;
+  display: flex;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.3520000458;
+  color: #000000;
+  font-family: Raleway, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-30-1w4 .desktop-6-xrJ .auto-group-smm5-GuU .auto-group-9rdr-JrA {
+  margin: 0.1rem 3.7rem 0rem 6.2rem;
+  width: 19.7rem;
+  height: 8rem;
+  display: flex;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.3520000458;
+  color: #ffffff;
+  font-family: Raleway, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+  background-color: #35312f;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.frame-30-1w4 .desktop-6-xrJ .auto-group-smm5-GuU .auto-group-vpaf-AdU {
+  margin-bottom: 0.1rem;
+  width: 19.7rem;
+  height: 8rem;
+  display: flex;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.3520000458;
+  color: #ffffff;
+  font-family: Raleway, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+  background-color: #35312f;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.frame-30-1w4 .desktop-6-xrJ .auto-group-ykd1-F98 {
+  width: 100.5rem;
+  height: 8rem;
+  position: absolute;
+  left: 17.3rem;
+  top: 95.2rem;
+  display: flex;
+  align-items: center;
+}
+.frame-30-1w4 .desktop-6-xrJ .auto-group-ykd1-F98 .cgpa-Mxr {
+  margin-right: 46.8rem;
+  display: flex;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.3520000458;
+  color: #000000;
+  font-family: Raleway, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-30-1w4 .desktop-6-xrJ .auto-group-ykd1-F98 .auto-group-n3t1-hG2 {
+  margin-right: 3.7rem;
+  width: 19.7rem;
+  height: 100%;
+  display: flex;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.3520000458;
+  color: #ffffff;
+  font-family: Raleway, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+  background-color: #35312f;
+  border-radius: 1rem;
+  flex-shrink: 0;
+  margin-left: 3rem;
+}
+.frame-30-1w4 .desktop-6-xrJ .auto-group-ykd1-F98 .auto-group-81pq-yjL {
+  width: 19.7rem;
+  height: 100%;
+  display: flex;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.3520000458;
+  color: #ffffff;
+  font-family: Raleway, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+  background-color: #35312f;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.frame-30-1w4 .desktop-6-xrJ .auto-group-nls7-UAJ {
+  width: 100.5rem;
+  height: 8.35rem;
+  position: absolute;
+  left: 17.3rem;
+  top: 108.2rem;
+  display: flex;
+  align-items: flex-end;
+}
+.frame-30-1w4 .desktop-6-xrJ .auto-group-nls7-UAJ .scholarship-Po4 {
+  margin-right: 29.4rem;
+  display: flex;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.3520000458;
+  color: #000000;
+  font-family: Raleway, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-30-1w4 .desktop-6-xrJ .auto-group-nls7-UAJ .auto-group-b4d1-7j4 {
+  margin: 0rem 3.7rem 0.35rem 7rem;
+  width: 19.7rem;
+  height: 8rem;
+  display: flex;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.3520000458;
+  color: #ffffff;
+  font-family: Raleway, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+  background-color: #35312f;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.frame-30-1w4 .desktop-6-xrJ .auto-group-nls7-UAJ .auto-group-j2pj-yFU {
+  margin-bottom: 0.35rem;
+  width: 19.7rem;
+  height: 8rem;
+  display: flex;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.3520000458;
+  color: #ffffff;
+  font-family: Raleway, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+  background-color: #35312f;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
